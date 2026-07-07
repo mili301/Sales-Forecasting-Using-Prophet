@@ -100,14 +100,12 @@ The model captured:
 
 ```text
 Sales-Forecasting-Using-Prophet/
-│
-├── Sales_Forecasting_Prophet.ipynb
-├── README.md
-├── requirements.txt
-└── images/
-    ├── forecast.png
-    ├── forecast_vs_actual.png
-    └── components.png
+│── Sales_Forecasting_Prophet.ipynb
+│── README.md
+│── requirements.txt
+│── forecast.png
+│── forecast_vs_actual.png
+│── components.png
 ```
 
 ---
