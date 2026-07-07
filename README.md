@@ -114,19 +114,21 @@ Sales-Forecasting-Using-Prophet/
 
 ## 📷 Project Screenshots
 
-### Sales Forecast
+### 📈 Sales Forecast
 
-(Add forecast.png here after uploading it.)
-
-### Forecast vs Actual Sales
-
-(Add forecast_vs_actual.png here after uploading it.)
-
-### Trend & Seasonality Components
-
-(Add components.png here after uploading it.)
+![Forecast](forecast.png)
 
 ---
+
+### 📊 Forecast vs Actual Sales
+
+![Forecast vs Actual](forecast_vs_actual.png)
+
+---
+
+### 📉 Trend & Seasonality Components
+
+![Components](components.png)
 
 ## 🔮 Future Improvements
 
